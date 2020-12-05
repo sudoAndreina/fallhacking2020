@@ -80,3 +80,5 @@ Students:
 |DB|dbow|dbow|
 | GD |mdaugh10 | mdaugh10 |
 |JA|jambrosi1|jambrosi1|
+| KF |kristinfarahdel | kristinfarahdel |
+| JA |jambrosi1 | jambrosi1 |
